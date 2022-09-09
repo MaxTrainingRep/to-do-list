@@ -1,4 +1,4 @@
-import '././cssFiles/Task.css';
+import '../cssFiles/Task.css';
 
 function Task({data, makeCheck, deleteItem}) {
     console.log('data', data);

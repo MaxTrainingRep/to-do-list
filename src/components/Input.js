@@ -1,4 +1,4 @@
-import '././cssFiles/input.css';
+import '../cssFiles/input.css';
 
 
 function Input({ onChange, value }) {

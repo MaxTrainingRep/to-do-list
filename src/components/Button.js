@@ -1,4 +1,4 @@
-import '././cssFiles/button.css';
+import '../cssFiles/button.css';
 
 function Button({ onClick }) {
     return (
